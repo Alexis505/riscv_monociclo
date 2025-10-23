@@ -1,0 +1,10 @@
+xrun(64): 20.03-s017: (c) Copyright 1995-2021 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	20.03-s017: Started on Mar 14, 2024 at 18:24:31 CST
+xrun
+	-compile
+	-messages
+	riscv.sv
+file: riscv.sv
+	module worklib.riscv:sv
+		errors: 0, warnings: 0
+TOOL:	xrun(64)	20.03-s017: Exiting on Mar 14, 2024 at 18:24:31 CST  (total: 00:00:00)

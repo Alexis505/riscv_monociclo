@@ -1,0 +1,49 @@
+s1(29Feb2024:16:50:47):  xrun -compile -messages adder.sv 
+s2(29Feb2024:16:50:56):  xrun -compile -messages alu.sv 
+s3(29Feb2024:16:51:07):  xrun -compile -messages alu.sv 
+s4(29Feb2024:16:54:12):  xrun -compile -messages adder.sv 
+s5(29Feb2024:16:55:23):  xrun -compile -messages adder.sv 
+s6(29Feb2024:17:23:02):  xrun -compile -messages adder.sv 
+s7(29Feb2024:17:23:10):  xrun -compile -messages alu.sv 
+s8(29Feb2024:17:23:25):  xrun -compile -messages alu.sv 
+s9(29Feb2024:17:25:23):  xrun -compile -messages aludec.sv 
+s10(29Feb2024:17:37:03):  xrun -compile -messages aludec.sv 
+s11(29Feb2024:17:37:28):  xrun -compile -messages aludec.sv 
+s12(29Feb2024:17:37:45):  xrun -compile -messages controller.sv 
+s13(29Feb2024:17:38:46):  xrun -compile -messages controller.sv 
+s14(29Feb2024:17:39:35):  xrun -compile -messages datapath.sv 
+s15(29Feb2024:17:40:04):  xrun -compile -messages datapath.sv 
+s16(29Feb2024:17:40:33):  xrun -compile -messages datapath.sv 
+s17(29Feb2024:17:42:27):  xrun -compile -messages dmem.sv 
+s18(29Feb2024:17:42:35):  xrun -compile -messages extend.sv 
+s19(29Feb2024:17:45:25):  xrun -compile -messages extend.sv 
+s20(29Feb2024:17:45:37):  xrun -compile -messages flop.sv 
+s21(29Feb2024:17:45:45):  xrun -compile -messages imem.sv 
+s22(29Feb2024:17:45:52):  xrun -compile -messages maindec.sv 
+s23(29Feb2024:17:46:03):  xrun -compile -messages mux2.sv 
+s24(29Feb2024:17:46:07):  xrun -compile -messages mux3.sv 
+s25(29Feb2024:17:47:09):  xrun -compile -messages mux3.sv 
+s26(29Feb2024:17:51:45):  xrun -compile -messages regfile.sv 
+s27(29Feb2024:17:54:22):  xrun -compile -messages riscv.sv 
+s28(29Feb2024:17:54:51):  xrun -compile -messages riscv.sv 
+s29(29Feb2024:17:58:33):  xrun -compile -messages testbench.sv 
+s30(29Feb2024:18:03:13):  xrun -compile testbench.sv 
+s31(29Feb2024:18:07:41):  xrun -compile -messages testbench.sv 
+s32(29Feb2024:18:07:49):  xrun -compile -messages top.sv 
+s33(29Feb2024:18:08:16):  xrun -compile -messages *.v 
+s34(29Feb2024:18:08:29):  xrun -compile -messages adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv 
+s35(29Feb2024:23:45:00):  xrun -compile -messages adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv 
+s36(29Feb2024:23:45:56):  xrun *.v -gui -access +rwc 
+s37(29Feb2024:23:46:13):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s38(29Feb2024:23:49:49):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s39(29Feb2024:23:58:55):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s40(01Mar2024:00:31:41):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s41(01Mar2024:00:59:46):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s42(01Mar2024:01:35:37):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s43(01Mar2024:02:18:04):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -gui -access +rwc 
+s44(01Mar2024:17:15:43):  xrun *.v -access +rwc -gui 
+s45(01Mar2024:17:15:51):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -access +rwc -gui 
+s46(01Mar2024:17:49:53):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -access +rwc -gui 
+s47(01Mar2024:18:36:07):  xrun adder.sv alu.sv aludec.sv controller.sv datapath.sv dmem.sv extend.sv flop.sv imem.sv maindec.sv mux2.sv mux3.sv regfile.sv riscv.sv testbench.sv top.sv -access +rwc -gui 
+s48(14Mar2024:18:11:53):  xrun -compile -messages extend.sv 
+s49(14Mar2024:18:24:31):  xrun -compile -messages riscv.sv 
